@@ -1,5 +1,3 @@
-package Lab7b;
-
 //importing the Scanner
 import java.util.Scanner;
 
